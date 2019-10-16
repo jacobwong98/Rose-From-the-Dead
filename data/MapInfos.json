@@ -1,7 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":699,"scrollY":446},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":699,"scrollY":446},
-{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":691,"scrollY":442},
-{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":0,"scrollX":691,"scrollY":686}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":0,"scrollX":811,"scrollY":686},
+{"id":5,"expanded":false,"name":"Tileset Testing","order":5,"parentId":0,"scrollX":595.6363636363636,"scrollY":335.27272727272725}
 ]
