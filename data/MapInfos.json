@@ -1,11 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"TestMap1","order":1,"parentId":0,"scrollX":699,"scrollY":446},
-{"id":2,"expanded":true,"name":"MAP002","order":3,"parentId":0,"scrollX":1101.6,"scrollY":750},
-{"id":3,"expanded":true,"name":"MAP003","order":4,"parentId":0,"scrollX":1101.6,"scrollY":750},
-{"id":4,"expanded":true,"name":"MAP004","order":5,"parentId":0,"scrollX":893,"scrollY":1087.5},
-{"id":5,"expanded":false,"name":"Tileset Testing","order":6,"parentId":0,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
-{"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":819,"scrollY":453},
-{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":2856,"scrollY":1652.7272727272727},
-{"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":0,"scrollX":1320,"scrollY":664.3636363636364}
+{"id":2,"expanded":true,"name":"MAP002","order":3,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":3,"expanded":true,"name":"MAP003","order":4,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":4,"expanded":true,"name":"MAP004","order":5,"parentId":0,"scrollX":902,"scrollY":767},
+{"id":5,"expanded":false,"name":"Tileset Testing","order":6,"parentId":0,"scrollX":918,"scrollY":625},
+{"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":918,"scrollY":625},
+{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":1056,"scrollY":1791},
+{"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":0,"scrollX":1232,"scrollY":927}
 ]
