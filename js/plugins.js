@@ -17,5 +17,6 @@ var $plugins =
 {"name":"YanflyDashToggle","status":true,"description":"v1.03 RPG Maker MV lacks the ability to toggle dashing\r\non and off. This plugin will let you do so~","parameters":{}},
 {"name":"SpeedManager","status":true,"description":"v1.1 Allows you to manage default movement speeds.","parameters":{"Move Speed":"3","Dash Speed":"1","Boat Speed":"4","Ship Speed":"5","Airship Speed":"6","Agility Based":"false","Distance Per Frame":"Math.pow(2, this.realMoveSpeed()) / 256;"}},
 {"name":"YEP_FootstepSounds","status":true,"description":"v1.01 Set footstep sounds to play when the player and/or\nevents walk over specific tiles.","parameters":{"---Default---":"","Default Sound":"","Default Volume":"5","Default Pitch":"100","---Player Settings---":"","Player Enable":"true","Player Volume":"1.00","Player Pitch":"1.00","---Event Settings---":"","Event Enable":"true","Event Volume":"1.00","Distance Volume":"-0.10","Event Pitch":"1.00","Distance Pitch":"-0.00","Distance Pan":"10"}},
-{"name":"QPathfind","status":true,"description":"<QPathfind>\r\nA* Pathfinding algorithm","parameters":{"Diagonals":"true","Any Angle":"true","Intervals":"100","Smart Wait":"60","Dash on Mouse":"false"}}
+{"name":"QPathfind","status":true,"description":"<QPathfind>\r\nA* Pathfinding algorithm","parameters":{"Diagonals":"true","Any Angle":"true","Intervals":"100","Smart Wait":"60","Dash on Mouse":"false"}},
+{"name":"Qsave","status":true,"description":"<QEventSave>\r\nSave Events position on Map change","parameters":{}}
 ];
