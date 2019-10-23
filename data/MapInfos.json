@@ -6,6 +6,6 @@ null,
 {"id":4,"expanded":true,"name":"MAP004","order":5,"parentId":0,"scrollX":691,"scrollY":946},
 {"id":5,"expanded":false,"name":"Tileset Testing","order":6,"parentId":0,"scrollX":699,"scrollY":446},
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":699,"scrollY":446},
-{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":691,"scrollY":2039},
+{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":691,"scrollY":1879},
 {"id":8,"expanded":false,"name":"MAP008","order":8,"parentId":0,"scrollX":1493.5,"scrollY":1083}
 ]
