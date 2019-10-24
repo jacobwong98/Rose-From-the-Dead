@@ -1,0 +1,4 @@
+<Terrain Tag 1 Footstep Sound: _Footstep2, 10, 95>
+<Terrain Tag 2 Footstep Sound: _FootstepGrass2, 10, 95>
+<Terrain Tag 3 Footstep Sound: _FootstepDirt3, 10, 95>
+<Terrain Tag 4 Footstep Sound: _FootstepTile, 10, 95>
