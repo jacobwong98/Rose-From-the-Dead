@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Your first ingredient in making a cure...","effects":[],"hitType":0,"iconIndex":176,"itypeId":2,"name":"Lemonade","note":"","occasion":3,"price":50,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"This is a map.","effects":[],"hitType":0,"iconIndex":190,"itypeId":2,"name":"Map","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A battery for your flashlight.","effects":[{"code":44,"dataId":7,"value1":1,"value2":0}],"hitType":0,"iconIndex":243,"itypeId":1,"name":"Battery","note":"","occasion":0,"price":201,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp / 2","type":0,"variance":20},"description":"A medkit to heal wounds.","effects":[{"code":44,"dataId":8,"value1":1,"value2":0}],"hitType":0,"iconIndex":206,"itypeId":1,"name":"Medkit","note":"","occasion":0,"price":300,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A petal from the \"original rose.\"","effects":[],"hitType":0,"iconIndex":0,"itypeId":2,"name":"Rose Petal","note":"","occasion":0,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
+]
