@@ -2,11 +2,11 @@
 null,
 {"id":1,"expanded":true,"name":"TestMap1","order":1,"parentId":0,"scrollX":699,"scrollY":446},
 {"id":2,"expanded":true,"name":"MAP002","order":3,"parentId":0,"scrollX":699,"scrollY":446},
-{"id":3,"expanded":true,"name":"MAP003","order":4,"parentId":0,"scrollX":691,"scrollY":438},
+{"id":3,"expanded":true,"name":"MAP003","order":4,"parentId":0,"scrollX":749,"scrollY":438},
 {"id":4,"expanded":true,"name":"MAP004","order":5,"parentId":0,"scrollX":691,"scrollY":946},
 {"id":5,"expanded":false,"name":"Tileset Testing","order":6,"parentId":0,"scrollX":699,"scrollY":446},
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":699,"scrollY":446},
-{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":691,"scrollY":1882},
+{"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":816,"scrollY":1882},
 {"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":691,"scrollY":878},
 {"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":699,"scrollY":446}
 ]
