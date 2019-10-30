@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":false,"name":"Tileset Testing","order":6,"parentId":0,"scrollX":699,"scrollY":446},
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":699,"scrollY":446},
 {"id":7,"expanded":false,"name":"Overworld","order":7,"parentId":0,"scrollX":691,"scrollY":1882},
-{"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":1613,"scrollY":458},
+{"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":691,"scrollY":878},
 {"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":699,"scrollY":446}
 ]
