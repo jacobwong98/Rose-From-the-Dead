@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":818.5,"scrollY":461},
 {"id":7,"expanded":true,"name":"Overworld Part 1","order":7,"parentId":0,"scrollX":1025.3999999999999,"scrollY":1071.6},
 {"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":1493.5,"scrollY":823},
-{"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":1389.4285714285713,"scrollY":776.5714285714286},
-{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1380.6,"scrollY":968.4}
+{"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":982.1999999999999,"scrollY":553.1999999999999},
+{"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":1389,"scrollY":1640.3999999999999},
+{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1389,"scrollY":1064.3999999999999}
 ]
