@@ -2,13 +2,13 @@
 null,
 {"id":1,"expanded":true,"name":"TestMap1","order":1,"parentId":0,"scrollX":982.1999999999999,"scrollY":553.1999999999999},
 {"id":2,"expanded":true,"name":"CarCrash","order":4,"parentId":0,"scrollX":1228.5,"scrollY":679.5},
-{"id":3,"expanded":true,"name":"Outside Gas","order":5,"parentId":0,"scrollX":1228.5,"scrollY":679.5},
-{"id":4,"expanded":true,"name":"Gas Station Indoors","order":6,"parentId":0,"scrollX":1216.5,"scrollY":712.5},
+{"id":3,"expanded":true,"name":"Outside Gas","order":5,"parentId":0,"scrollX":982.1999999999999,"scrollY":553.1999999999999},
+{"id":4,"expanded":true,"name":"Gas Station Indoors","order":6,"parentId":0,"scrollX":972.5999999999999,"scrollY":838.8},
 {"id":5,"expanded":false,"name":"Tileset Testing","order":3,"parentId":1,"scrollX":819,"scrollY":453},
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":982.1999999999999,"scrollY":553.1999999999999},
 {"id":7,"expanded":true,"name":"Overworld Part 1","order":7,"parentId":0,"scrollX":2623.5,"scrollY":1822.5},
 {"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":1216.5,"scrollY":856.5},
 {"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":1743,"scrollY":1252.5},
-{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1663.5,"scrollY":1252.5}
+{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1654.1999999999998,"scrollY":1376.3999999999999}
 ]
