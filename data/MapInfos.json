@@ -9,6 +9,6 @@ null,
 {"id":7,"expanded":true,"name":"Overworld Part 1","order":7,"parentId":0,"scrollX":2623.5,"scrollY":1822.5},
 {"id":8,"expanded":false,"name":"Rose Maze","order":8,"parentId":0,"scrollX":1216.5,"scrollY":856.5},
 {"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":1743,"scrollY":1252.5},
-{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1663.5,"scrollY":1252.5}
+{"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":1743,"scrollY":1132.5},
+{"id":11,"expanded":false,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1216.5,"scrollY":1252.5}
 ]
