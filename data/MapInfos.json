@@ -6,18 +6,11 @@ null,
 {"id":4,"expanded":true,"name":"Gas Station Indoors","order":6,"parentId":0,"scrollX":811,"scrollY":946.5},
 {"id":5,"expanded":false,"name":"Tileset Testing","order":3,"parentId":1,"scrollX":699,"scrollY":446},
 {"id":6,"expanded":false,"name":"Test Map A","order":2,"parentId":1,"scrollX":699,"scrollY":446},
-<<<<<<< Updated upstream
-{"id":7,"expanded":true,"name":"Overworld Part 1","order":7,"parentId":0,"scrollX":2897.142857142857,"scrollY":2031.4285714285713},
-{"id":8,"expanded":false,"name":"(Old) Rose Maze","order":8,"parentId":0,"scrollX":1388.5714285714284,"scrollY":1026.857142857143},
-{"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
-{"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":2924.5714285714284,"scrollY":1808.5714285714284},
-=======
 {"id":7,"expanded":true,"name":"Overworld Part 1","order":7,"parentId":0,"scrollX":3029,"scrollY":1722.5},
 {"id":8,"expanded":false,"name":"(Old) Rose Maze","order":8,"parentId":0,"scrollX":1368,"scrollY":624},
 {"id":9,"expanded":false,"name":"Movie/Start","order":9,"parentId":0,"scrollX":819,"scrollY":445.5},
 {"id":10,"expanded":false,"name":"Overworld Part 2","order":10,"parentId":0,"scrollX":2936,"scrollY":2000},
->>>>>>> Stashed changes
-{"id":11,"expanded":true,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1328.5714285714284,"scrollY":1410.8571428571427},
+{"id":11,"expanded":true,"name":"Farmhouse","order":11,"parentId":0,"scrollX":1756,"scrollY":566.5},
 {"id":12,"expanded":false,"name":"End Map","order":12,"parentId":0,"scrollX":819,"scrollY":445.5},
-{"id":13,"expanded":false,"name":"(New) Rose Maze","order":13,"parentId":0,"scrollX":1183,"scrollY":769.5}
+{"id":13,"expanded":false,"name":"(New) Rose Maze","order":13,"parentId":0,"scrollX":811,"scrollY":1098.5}
 ]
