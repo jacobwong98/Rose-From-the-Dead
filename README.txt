@@ -44,4 +44,4 @@ Performance Issues on lower-end machines
 
 Link to Survey
 ------------------------------------
-***Link to Google Form here***
+https://forms.gle/qEBGzTkNdqv4zFfg7
