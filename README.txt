@@ -14,6 +14,14 @@ Dalton Johnson - Programmer
 Larissa Peeteetuce - Artist
 Jacob Wong - Programmer, Audio
 
+Plugins
+------------------------------------
+Quxios - QPlus, QMovement, Qsight, QM+CollisionMap, QPathfind, QSave
+Khas - KhasCore, KhasGraphics, Khas Ultralighting
+Yanfly - DashToggle, Yep_ButtonCommonEvents, YEP_KeyboardConfig, YEP_FootstepSounds (Chickie Collaboration)
+Karberus - SpeedManager
+Squirting Elephant - SE_DashStamina
+
 Instructions to play the game
 ------------------------------------
 Use WASD to move player Up, Left, Down, Right respectively
