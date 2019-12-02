@@ -199,7 +199,13 @@ Khas.Lighting.LIGHTS = {
     },
     flashlight: {
         fileName: "flashlight", 
-        intensity: 100, variation: 0,
+        intensity: 95, variation: 1,
+        offset_x: {2: 0, 4: 0, 6: 0, 8: 0 }, offset_y: {2: 0, 4: 0, 6: 0, 8: 0 },
+        syncWithDirection: true
+    },
+	flashlight_dim: {
+        fileName: "flashlight", 
+        intensity: 75, variation: 5,
         offset_x: {2: 0, 4: 0, 6: 0, 8: 0 }, offset_y: {2: 0, 4: 0, 6: 0, 8: 0 },
         syncWithDirection: true
     },
