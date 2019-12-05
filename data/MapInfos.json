@@ -14,7 +14,7 @@ null,
 {"id":12,"expanded":false,"name":"End Map","order":17,"parentId":0,"scrollX":1092,"scrollY":604},
 {"id":13,"expanded":false,"name":"(New) Rose Maze","order":16,"parentId":0,"scrollX":1222.6666666666667,"scrollY":942.6666666666666},
 {"id":14,"expanded":true,"name":"Overworld Near Gas","order":9,"parentId":7,"scrollX":1404,"scrollY":509.1428571428571},
-{"id":15,"expanded":true,"name":"Overworld Meadow","order":10,"parentId":7,"scrollX":915.4285714285713,"scrollY":522.8571428571428},
-{"id":16,"expanded":true,"name":"Overworld Near Rose","order":11,"parentId":7,"scrollX":1081.7142857142856,"scrollY":1004.5714285714286},
+{"id":15,"expanded":true,"name":"Overworld Meadow","order":10,"parentId":7,"scrollX":1404,"scrollY":763.7142857142857},
+{"id":16,"expanded":true,"name":"Overworld Near Rose","order":11,"parentId":7,"scrollX":1390.2857142857142,"scrollY":1005.4285714285713},
 {"id":17,"expanded":false,"name":"Overworld Near Farm","order":12,"parentId":7,"scrollX":1081.3333333333333,"scrollY":740}
 ]
