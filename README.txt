@@ -40,6 +40,32 @@ lonemonk - Chev 350 start then die
 Rudmer_Rotteveel - Small_Flashlight_Click_on_03
 vtownpunks - Groan 2
 Mike Koenig - Zombie Moan Sound, http://soundbible.com/1035-Zombie-Moan.html
+https://freesound.org/people/jpatricolo94/sounds/201158/ 
+https://freesound.org/people/Kneeling/sounds/473525/ 
+https://freesound.org/people/MaxDemianAGL/sounds/131050/ 
+https://freesound.org/people/macdaddyno1/sounds/352633/ 
+https://freesound.org/people/florianreichelt/sounds/459977/ 
+https://freesound.org/people/nnus/sounds/126513/ 
+https://freesound.org/people/Melthurian/sounds/319384/ 
+https://freesound.org/people/Duesenbert/sounds/404431/ 
+https://freesound.org/people/lonemonk/sounds/123686/ 
+https://freesound.org/people/bevangoldswain/sounds/54776/ 
+https://freesound.org/people/hannagreen/sounds/346567/ 
+https://freesound.org/people/wboycher/sounds/420678/ 
+https://freesound.org/people/Timbre/sounds/266690/ 
+https://freesound.org/people/soundslikewillem/sounds/483384/ 
+https://freesound.org/people/LaCezio/sounds/320496/ 
+https://freesound.org/people/Jagadamba/sounds/258047/ 
+https://freesound.org/people/LamaMakesMusic/sounds/403520/ 
+https://freesound.org/people/OGsoundFX/sounds/423005/ 
+https://freesound.org/people/DamianMinnie/sounds/327559/ 
+https://freesound.org/people/tec_studio/sounds/385818/ 
+https://freesound.org/people/GowlerMusic/sounds/266566/ 
+https://freesound.org/people/oliver%20eye/sounds/56397/ 
+https://freesound.org/people/humanoide9000/sounds/457070/ 
+https://freesound.org/people/hallkev/sounds/428611/ 
+https://freesound.org/people/mansardian/sounds/61322/ 
+https://freesound.org/people/Stumber/sounds/196250/ 
 
 
 Instructions to play the game
