@@ -304,7 +304,7 @@ Khas.Lighting.LIGHTS = {
     },
     purple: {
         fileName: "purple",
-        intensity: 100, variation: 0,
+        intensity: 80, variation: 5,
         offset_x: 0, offset_y: 0  
     },
     // TEST
